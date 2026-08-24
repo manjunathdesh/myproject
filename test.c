@@ -2,6 +2,6 @@
 int main()
 {
     printf("hello DevOps");
-    printf("Hello World!")
+    printf("Hello World!");
     return 0;
 }
